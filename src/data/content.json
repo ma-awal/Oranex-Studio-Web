@@ -1,0 +1,310 @@
+{
+  "nav": [
+    {
+      "id": "home",
+      "label": "Home"
+    },
+    {
+      "id": "services",
+      "label": "Services"
+    },
+    {
+      "id": "work",
+      "label": "Work"
+    },
+    {
+      "id": "process",
+      "label": "Process"
+    },
+    {
+      "id": "faq",
+      "label": "FAQ"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ],
+  "hero": {
+    "badge": "Web Design & Development Studio",
+    "titleStart": "We build websites that turn visitors into",
+    "titleHighlight": "customers.",
+    "subtitle": "Oranex Studio crafts high-converting ecommerce stores, landing pages and portfolio websites. Custom designed, fast and mobile-first.",
+    "points": [
+      "Ecommerce Stores",
+      "Landing Pages",
+      "Portfolio Websites"
+    ],
+    "primaryCta": "See Our Work",
+    "whatsappCta": "Chat on WhatsApp",
+    "whatsappText": "Hi Oranex Studio, I'd like to talk about a website project.",
+    "chips": [
+      {
+        "icon": "mobile",
+        "label": "Mobile-first"
+      },
+      {
+        "icon": "search",
+        "label": "SEO-ready"
+      },
+      {
+        "icon": "zap",
+        "label": "Fast loading"
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Websites for",
+    "highlight": "every goal",
+    "subtitle": "Three focused services, each designed and built from scratch around your brand.",
+    "items": [
+      {
+        "icon": "bag",
+        "title": "Ecommerce Stores",
+        "text": "Online stores that are easy to manage and built to sell.",
+        "points": [
+          "Custom product, cart and checkout experience",
+          "Mobile-first, fast and SEO-ready",
+          "Built on the platform that fits you:"
+        ],
+        "platforms": [
+          "Shopify",
+          "WooCommerce",
+          "Headless Next.js"
+        ],
+        "cta": "Start a store",
+        "whatsappText": "Hi Oranex Studio, I want to launch an online store. Can we talk?"
+      },
+      {
+        "icon": "layout",
+        "title": "Landing Pages",
+        "text": "Focused pages that explain your offer clearly and make people take action.",
+        "points": [
+          "Conversion-focused structure and copy flow",
+          "Lead forms, call and WhatsApp buttons",
+          "Speed-optimized with a quick turnaround"
+        ],
+        "cta": "Start a landing page",
+        "whatsappText": "Hi Oranex Studio, I need a landing page for my business. Can we talk?"
+      },
+      {
+        "icon": "user",
+        "title": "Portfolio Websites",
+        "text": "A polished online home for creatives, professionals and personal brands.",
+        "points": [
+          "Custom design that fits your personality",
+          "Fast, mobile-first layout",
+          "SEO-ready and easy to update"
+        ],
+        "cta": "Start a portfolio",
+        "whatsappText": "Hi Oranex Studio, I'd like a portfolio website. Can we talk?"
+      }
+    ],
+    "note": "Not sure which one fits your project?",
+    "noteCta": "Message us and we'll figure it out together",
+    "noteText": "Hi Oranex Studio, I'm not sure which website I need. Can you help me decide?"
+  },
+  "work": {
+    "eyebrow": "Our work",
+    "title": "Designs we've",
+    "highlight": "created",
+    "subtitle": "A selection of ecommerce stores, landing pages and portfolio websites.",
+    "perPage": 6,
+    "sampleLabel": "Sample design",
+    "empty": "New projects are coming soon. Message us to see more of our work."
+  },
+  "whyUs": {
+    "eyebrow": "Why Oranex",
+    "title": "Built to look great and",
+    "highlight": "perform",
+    "subtitle": "A website is only worth it if it brings you customers. That's what we design for.",
+    "items": [
+      {
+        "icon": "target",
+        "title": "Conversion-focused design",
+        "text": "Every layout is planned around one goal: getting your visitors to take action."
+      },
+      {
+        "icon": "mobile",
+        "title": "Mobile-first, always",
+        "text": "Most visitors are on phones, so we design for small screens first."
+      },
+      {
+        "icon": "zap",
+        "title": "Fast and SEO-ready",
+        "text": "Clean code, optimized images and a structure search engines understand."
+      },
+      {
+        "icon": "message",
+        "title": "Clear communication",
+        "text": "Simple updates and quick replies, so you always know where your project stands."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "How we work",
+    "title": "A simple process,",
+    "highlight": "no surprises",
+    "steps": [
+      {
+        "icon": "target",
+        "title": "Discover",
+        "text": "We talk about your goals, your audience and what the website needs to achieve."
+      },
+      {
+        "icon": "pen",
+        "title": "Design",
+        "text": "We create a clean, on-brand layout and refine it with you before any code is written."
+      },
+      {
+        "icon": "code",
+        "title": "Develop",
+        "text": "A responsive, fast build with clean code, tested on real devices."
+      },
+      {
+        "icon": "send",
+        "title": "Launch",
+        "text": "Go-live, final checks and support so your site keeps working for you."
+      }
+    ]
+  },
+  "tech": {
+    "eyebrow": "Technology",
+    "title": "Modern tools,",
+    "highlight": "reliable results",
+    "subtitle": "The technology behind every Oranex website.",
+    "core": [
+      {
+        "icon": "html",
+        "title": "HTML5"
+      },
+      {
+        "icon": "css",
+        "title": "CSS3"
+      },
+      {
+        "icon": "js",
+        "title": "JavaScript"
+      },
+      {
+        "icon": "react",
+        "title": "React"
+      },
+      {
+        "icon": "next",
+        "title": "Next.js"
+      },
+      {
+        "icon": "tailwind",
+        "title": "Tailwind CSS"
+      },
+      {
+        "icon": "git",
+        "title": "Git & GitHub"
+      }
+    ],
+    "platformsLabel": "Ecommerce platforms",
+    "platforms": [
+      {
+        "icon": "shopify",
+        "title": "Shopify",
+        "text": "Custom-designed stores that are easy to manage."
+      },
+      {
+        "icon": "woo",
+        "title": "WooCommerce",
+        "text": "Flexible WordPress stores that grow with you."
+      },
+      {
+        "icon": "next",
+        "title": "Headless Next.js",
+        "text": "Lightning-fast custom storefronts."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "Kind words from",
+    "highlight": "clients",
+    "items": [
+      {
+        "name": "aurthurma",
+        "quote": "Super rapid, super precise!"
+      },
+      {
+        "name": "kelsie_akiha",
+        "quote": "Always so great to work with."
+      },
+      {
+        "name": "felixschmidt617",
+        "quote": "The design, the structure, the responsiveness - everything was top-notch. I am truly happy with the final result."
+      },
+      {
+        "name": "gunnarstelnn",
+        "quote": "Exceptional work! Every aspect of the website was crafted with precision and care. The attention to detail and understanding of my requirements were outstanding. A seamless and professional experience - highly recommended!"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Common",
+    "highlight": "questions",
+    "items": [
+      {
+        "q": "What do you need from me to get started?",
+        "a": "Just a short brief: what your business does, what you sell or offer, and a few websites you like. Logo, photos and product details can be shared as we go."
+      },
+      {
+        "q": "How long does a project take?",
+        "a": "It depends on the size of the project. After we talk, you get a clear timeline before any work starts."
+      },
+      {
+        "q": "Will my website work on mobile?",
+        "a": "Yes. Every site is designed mobile-first and tested on real phone and desktop screens."
+      },
+      {
+        "q": "Can I update the website myself later?",
+        "a": "Yes. Stores are managed from the Shopify or WooCommerce dashboard, and we'll show you how to update products and content. For portfolio and landing pages, we can also handle updates for you."
+      },
+      {
+        "q": "Do you help with domain and hosting?",
+        "a": "Yes. We can guide you through buying a domain and setting up hosting, and connect everything for you."
+      },
+      {
+        "q": "How do we get started?",
+        "a": "Send a message on WhatsApp or use the form below. We'll reply, discuss your idea and share the next steps."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's build",
+    "highlight": "your website",
+    "subtitle": "Tell us about your project. We'll get back to you as soon as possible.",
+    "whatsappText": "Hi Oranex Studio, I'd like to talk about my website project.",
+    "serviceOptions": [
+      "Ecommerce Store",
+      "Landing Page",
+      "Portfolio Website",
+      "Something else"
+    ],
+    "success": "Thanks! Your message has been sent. We'll reply soon.",
+    "error": "Message could not be sent. Please try WhatsApp or email directly."
+  },
+  "footer": {
+    "bio": "Crafting high-converting ecommerce stores, landing pages and portfolios. Turning visitors into customers.",
+    "explore": [
+      "services",
+      "work",
+      "process",
+      "faq",
+      "contact"
+    ],
+    "services": [
+      "Ecommerce Stores",
+      "Landing Pages",
+      "Portfolio Websites"
+    ]
+  }
+}

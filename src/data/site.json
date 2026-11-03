@@ -1,0 +1,32 @@
+{
+  "name": "Oranex Studio",
+  "shortName": "Oranex",
+  "tagline": "Web Design & Development Studio",
+  "logo": "/logo.svg",
+  "email": "oranexstudio@gmail.com",
+  "phone": "+880 1812959878",
+  "whatsapp": "8801812959878",
+  "location": "Dhaka, Bangladesh",
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "github": ""
+  },
+  "seo": {
+    "title": "Oranex Studio – Ecommerce, Landing Page & Portfolio Website Design",
+    "description": "Oranex Studio crafts high-converting ecommerce stores, landing pages and portfolio websites. Custom designed, fast and mobile-first, built to turn visitors into customers.",
+    "keywords": [
+      "web design studio",
+      "ecommerce website",
+      "landing page design",
+      "portfolio website",
+      "Shopify",
+      "WooCommerce",
+      "Next.js",
+      "Dhaka",
+      "Bangladesh"
+    ]
+  }
+}
