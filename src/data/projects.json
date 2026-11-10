@@ -1,18 +1,26 @@
 [
   {
+    "title": "Vers Look  Premium Bag Selling Store",
+    "category": "Ecommerce",
+    "image": "https://delightful-dusk-d5567b.netlify.app/assets/verslook.png",
+    "live": "https://www.verslook.com/",
+    "sample": true
+  },
+  {
+    "title": "Tutor website with subjects, fees and demo class booking.",
+    "category": "Portfolio",
+    "image": "https://delightful-dusk-d5567b.netlify.app/assets/tutor.png",
+    "live": "https://tutor-porfolio.vercel.app/",
+    "sample": true
+  },
+  {
     "title": "Festive fashion store with a full Bangla storefront.",
     "category": "Ecommerce",
     "image": "https://delightful-dusk-d5567b.netlify.app/assets/festive.png",
     "live": "https://festive-eommcer-store.vercel.app/",
     "sample": true
   },
-  {
-    "title": "Online menu and ordering site for a food truck",
-    "category": "Portfolio",
-    "image": "https://delightful-dusk-d5567b.netlify.app/assets/restaurant.png",
-    "live": "https://flame-and-grill-app.vercel.app/",
-    "sample": true
-  },
+
   {
     "title": "Luxury accessories store for jewelry, bags, watches and more.",
     "category": "Ecommerce",
@@ -22,17 +30,10 @@
   },
 
   {
-    "title": "Tutor website with subjects, fees and demo class booking.",
-    "category": "Portfolio",
-    "image": "https://delightful-dusk-d5567b.netlify.app/assets/tutor.png",
-    "live": "https://tutor-porfolio.vercel.app/",
-    "sample": true
-  },
-  {
-    "title": "Digital Agency Landing Page",
+    "title": "Architecture & Interior Studio",
     "category": "Landing Page",
-    "image": "https://delightful-dusk-d5567b.netlify.app/assets/vortex.png",
-    "live": "https://digital-agency-app-ochre.vercel.app/",
+    "image": "https://delightful-dusk-d5567b.netlify.app/assets/lumina.png",
+    "live": "https://lumina-interior-app.vercel.app/",
     "sample": true
   },
   {
